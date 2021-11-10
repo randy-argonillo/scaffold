@@ -5,7 +5,7 @@ def add(x, y):
 def run_add():
     x = 1
     y = 2
-    print(f"This is the sum of {x} and {y} = {add(x, y)}")
+    print(f"This is the sum of {x} + {y} = {add(x, y)}")
 
 
 if __name__ == "__main__":
